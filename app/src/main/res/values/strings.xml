@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">06-obsluga-zdarzenZad2</string>
+    <string name="licz">Licznik:</string>
+    <string name="plus">+1</string>
+    <string name="minus">-1</string>
+    <string name="reset">Reset</string>
+    <string name="error_negative">Nie można zejść poniżej zera!</string>
+</resources>
